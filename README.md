@@ -30,7 +30,7 @@
 
 ### Cloning of repository ###
 * ```
-    git clone https://github.com/joshgossman/package-challenge.git
+    git clone https://github.com/joshgossman/package-challenge-dotnetcore.git
   ```
 
 ### Running tests ###
